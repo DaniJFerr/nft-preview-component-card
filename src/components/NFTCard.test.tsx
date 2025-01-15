@@ -9,7 +9,7 @@ const mockProps = {
   timeLeft: "3 days left",
   creator: {
     avatarUrl:
-      "https://cdn.builder.io/api/v1/image/assets/TEMP/5222ec6a2262b9f480baa932b2f8c3bc02f3b25fc3785f9a70804d8ecd5178a6?placeholderIfAbsent=true&apiKey=19bec41ad166455e97401c139e8bd291",
+      "image-avatar.png",
     name: "Jules Wyvern",
   },
 };
